@@ -63,7 +63,7 @@ nav ul li {
     padding-top: 70px;
     float: left;
     position: relative;   
-    font-size: 18px;
+    font-size: 14px;
     margin:40px;
     width: 23%;
     
@@ -80,7 +80,7 @@ nav ul li {
 }
 
 .bottom-green{
-    background-color: #00B172;
+    background-color: #1ae9a0;
     height: 650px;
     clear:both;
     display: flex;
